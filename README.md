@@ -3,10 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Partho+Choudhury;Technologist+%7C+Cloud+Architect+%7C+Applied+Data+Scientist;AI+Enthusiast+%7C+Data+Architect+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
-
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a>  
+  
 <a href="https://www.linkedin.com/in/pnchoudhury/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
