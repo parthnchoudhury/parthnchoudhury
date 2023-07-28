@@ -6,7 +6,7 @@
   
 </p>
 
-* 💼 Data Engineering and Technical Lead @ [Syngenta AG](https://www.syngentagroup.com/en). 
+* 💼 Data Strategy and Transformation Lead @ [Syngenta AG](https://www.syngentagroup.com/en). 
 
 * 🎓 Master of Engineering in **Cloud Computing and Architecture** @ [Harvard University](https://www.harvard.edu/).
 
