@@ -12,7 +12,7 @@
 
 * 🎓 Master of **Computer Engineering** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
 
-* 🎓 Bachelor of **Computer Engineering** @ [Sikkim Manipal Institute of Technology(Sikkim Manipal University)](https://smu.edu.in/smit.html/).
+* 🎓 Bachelor of **Computer Engineering** @ [Sikkim Manipal Institute of Technology (Sikkim Manipal University)](https://smu.edu.in/smit.html/).
 
 * 🔍 Conducting research on **Communication Technologies and Cloud Computing** @ [
 International Association of Computer Science & Information Technology (IACSIT)](http://www.iacsit.org/).
