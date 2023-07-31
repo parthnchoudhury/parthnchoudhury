@@ -8,8 +8,6 @@
 
 * 💼 Data Strategy and Transformation Lead @ [Syngenta AG](https://www.syngentagroup.com/en). 
 
-* 🎓 Master of Engineering in **Cloud Computing and Architecture** @ [Harvard University](https://www.harvard.edu/).
-
 * 🎓 Master of Science in **Digital Business Analytics** @ [EMLV – The Leonard de Vinci Business School](https://www.emlv.fr/).
 
 * 🎓 Master of **Computer Applications** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
