@@ -10,7 +10,9 @@
 
 * 🎓 Master of Science in **Digital Business Analytics** @ [EMLV – The Leonard de Vinci Business School](https://www.emlv.fr/).
 
-* 🎓 Master of **Computer Applications** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
+* 🎓 Master of **Computer Engineering** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
+
+* 🎓 Bachelor of **Computer Engineering** @ [Sikkim Manipal Institute of Technology(Sikkim Manipal University)]([https://www.gjust.ac.in/](https://smu.edu.in/smit.html/)).
 
 * 🔍 Conducting research on **Communication Technologies and Cloud Computing** @ [
 International Association of Computer Science & Information Technology (IACSIT)](http://www.iacsit.org/).
