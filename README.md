@@ -6,7 +6,7 @@
   
 </p>
 
-* 💼 Data Strategy and Transformation Lead @ [Syngenta AG](https://www.syngentagroup.com/en). 
+* 💼 (Ex-Employee) Data Strategy and Transformation Lead @ [Syngenta AG](https://www.syngentagroup.com/en). 
 
 * 🎓 Master of Science in **Digital Business Analytics** @ [EMLV – The Leonard de Vinci Business School](https://www.emlv.fr/).
 
