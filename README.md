@@ -6,7 +6,9 @@
   
 </p>
 
-* 💼 (Ex-Employee) Data Strategy and Transformation Lead @ [Syngenta AG](https://www.syngentagroup.com/en). 
+* 💼 (Ex-Employee) Data Strategy and Transformation Lead @ [Syngenta AG](https://www.syngentagroup.com/en).
+
+* 🎓 Master of Science in **Cloud Computing and Architecture** @ [Harvard Business School]([https://www.emlv.fr/](https://online.hbs.edu/).
 
 * 🎓 Master of Science in **Digital Business Analytics** @ [EMLV – The Leonard de Vinci Business School](https://www.emlv.fr/).
 
