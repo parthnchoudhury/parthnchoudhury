@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/ianthropos88">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Partho+Choudhury;Technologist+%7C+Cloud+&+Enterprise+Architect+%7C+Applied+Data+Scientist;AI+Enthusiast+%7C+Data+Architect+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Partho+Choudhury;Technologist+%7C+Cloud+and+Enterprise+Architect+%7C+Applied+Data+Scientist;AI+Enthusiast+%7C+Data+Architect+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
   
