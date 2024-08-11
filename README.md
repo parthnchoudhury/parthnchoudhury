@@ -6,6 +6,8 @@
   
 </p>
 
+* 💼 Tech CEO & Founder of an AI Powered Digital Ecosystem Creator @ [Lyde](https://hellolyde.com).
+
 * 💼 (Ex-Employee) Digital Transformation Technical Lead @ [Syngenta AG](https://www.syngentagroup.com/en).
 
 * 🎓 Master of Science in **Cloud Computing and Architecture** @ [Harvard Business School](https://online.hbs.edu/).
