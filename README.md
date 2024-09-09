@@ -6,7 +6,7 @@
   
 </p>
 
-* 💼 Tech CEO & Founder of an AI Powered Digital Ecosystem Creator @ [Lyde](https://hellolyde.com).
+* 💼 Tech CEO & Founder of an AI Powered Digital Ecosystem for Supply Chain @ **Stealth**.
 
 * 💼 (Ex-Employee) Digital Transformation Technical Lead @ [Syngenta AG](https://www.syngentagroup.com/en), [Zalando DE](https://en.zalando.de/), [AXIS Bank](https://www.axisbank.com), [Myntra Jabong](https://www.myntra.com), [Supercell](https://supercell.com/en/), [Infosys](https://www.infosys.com)
 
