@@ -8,7 +8,7 @@
 
 * 💼 Tech CEO & Founder of an AI Powered Digital Ecosystem for Supply Chain @ **Stealth**.
 
-* 💼 (Ex-Employee) Digital Transformation Technical Lead @ [Syngenta AG](https://www.syngentagroup.com/en), [Zalando DE](https://en.zalando.de/), [AXIS Bank](https://www.axisbank.com), [Myntra Jabong](https://www.myntra.com), [Supercell](https://supercell.com/en/), [Infosys](https://www.infosys.com)
+* 💼 (Ex-Employee) Digital Transformation Regional Head @ [Syngenta AG](https://www.syngentagroup.com/en), [Zalando DE](https://en.zalando.de/), [AXIS Bank](https://www.axisbank.com), [Myntra Jabong](https://www.myntra.com), [Supercell](https://supercell.com/en/), [Infosys](https://www.infosys.com)
 
 * 🎓 Master of Science (MS) in **Cloud Computing and Architecture** @ [Harvard John A. Paulson School Of Engineering And Applied Sciences](https://seas.harvard.edu).
 
