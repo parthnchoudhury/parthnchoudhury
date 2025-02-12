@@ -10,13 +10,13 @@
 
 * 💼 (Ex-Employee) Digital Transformation Technical Lead @ [Syngenta AG](https://www.syngentagroup.com/en), [Zalando DE](https://en.zalando.de/), [AXIS Bank](https://www.axisbank.com), [Myntra Jabong](https://www.myntra.com), [Supercell](https://supercell.com/en/), [Infosys](https://www.infosys.com)
 
-* 🎓 Master of Science (MS) in **Cloud Computing and Architecture** @ [Harvard University](https://www.harvard.edu).
+* 🎓 Master of Science (MS) in **Cloud Computing and Architecture** @ [Harvard John A. Paulson School Of Engineering And Applied Sciences](https://seas.harvard.edu).
 
 * 🎓 Master of Science (MSc) in **Digital Business Analytics** @ [EMLV – The Leonard de Vinci Business School](https://www.emlv.fr/).
 
-* 🎓 Master of **Computer Engineering** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
+* 🎓 Master of **Computer Science & Engineering** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
 
-* 🎓 Bachelor of **Computer Engineering** @ [Sikkim Manipal Institute of Technology (Sikkim Manipal University)](https://smu.edu.in/smit.html/).
+* 🎓 Bachelor of **Computer Science & Information Technology** @ [Sikkim Manipal Institute of Technology (Sikkim Manipal University)](https://smu.edu.in/smit.html/).
 
 * 🔍 Conducting research on **Communication Technologies and Cloud Computing** @ [
 International Association of Computer Science & Information Technology (IACSIT)](http://www.iacsit.org/).
