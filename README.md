@@ -10,8 +10,6 @@
 
 * 💼 (Ex-Employee) Digital Transformation Regional Head @ [Syngenta AG](https://www.syngentagroup.com/en), [Zalando DE](https://en.zalando.de/), [AXIS Bank](https://www.axisbank.com), [Myntra Jabong](https://www.myntra.com), [Supercell](https://supercell.com/en/), [Infosys](https://www.infosys.com)
 
-* 🎓 Master of Science (MS) in **Cloud Computing and Architecture** @ [Harvard John A. Paulson School Of Engineering And Applied Sciences](https://seas.harvard.edu).
-
 * 🎓 Master of Science (MSc) in **Digital Business Analytics** @ [EMLV – The Leonard de Vinci Business School](https://www.emlv.fr/).
 
 * 🎓 Master of **Computer Science & Engineering** @ [Guru Jambheshwar University of Science and Technology](https://www.gjust.ac.in/).
