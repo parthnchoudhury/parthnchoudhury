@@ -18,3 +18,15 @@
 International Association of Computer Science & Information Technology (IACSIT)](http://www.iacsit.org/).
 
 * 💻 Currently working on collaborative systems to investigate models and algorithms to help develop autonomous systems that can work collaboratively with other systems and with humans.
+
+--------------------------------------------------------
+
+🚀 **Accessing My Private Repositories** 🚀
+
+Inside my repositories, you’ll find **exclusive, high-impact work**—from **enterprise architectures and machine learning breakthroughs** to **cutting-edge AI models, software engineering projects, and futuristic web designs** used across global organizations.
+
+These repositories are **not publicly available**—access is reserved for those with **exclusive rights**.
+
+🔑 **Want to explore?** Start by joining my newsletter, where I share insights and breakthroughs. **Access requests are reviewed selectively**.
+
+Let’s build the future—strategically. 🚀
